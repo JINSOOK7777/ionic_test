@@ -1,0 +1,12 @@
+{
+  "name": "ionic_test",
+  "ignore": [
+             "**/.*",
+             "node_modules",
+             "bower_components"
+           ],
+  "private": true,
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.0.0-beta.14"
+  }
+}
